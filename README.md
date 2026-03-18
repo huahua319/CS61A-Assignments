@@ -6,6 +6,9 @@
 
 ## English
 
+### Version
+**CS61A Fall 2024 (fa24)**
+
 ### Overview
 This repository contains **all homework (hw)**, **labs**, and **projects** for the UC Berkeley CS61A course. It is designed to facilitate practice and improve your understanding of the material.
 
@@ -65,6 +68,9 @@ python3 ok --local
 ---
 
 ## 中文说明
+
+### 版本
+**CS61A 2024 年秋季学期 (fa24)**
 
 ### 项目简介
 本仓库包含了 UC Berkeley CS61A 课程的所有 **家庭作业 (hw)**、**实验 (labs)** 和 **项目 (projects)**。通过 Fork 本仓库，您可以创建自己的工作环境，跟踪学习进度并保存作业的解答。同时，您还可以访问我们提供的 [**CS61A 网站镜像**](https://insideempire.github.io/CS61A-Website-Archive/)，用于参考和学习。
